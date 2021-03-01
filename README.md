@@ -1,7 +1,7 @@
 # Brain-tumor-detection-vgg16-mask-rcnn
 
 # Brain tumor:
-![Alt Text](https://github.com/Chandureddy8/Brain-tumor-detection-vgg16-mask-rcnn/blob/main/images/download.jfif)
+                                  ![Alt Text](https://github.com/Chandureddy8/Brain-tumor-detection-vgg16-mask-rcnn/blob/main/images/download.jfif)
 
 In medical science, an anomalous and uncontrollable cell growth inside the brain is recognised as tumor. Human brain is the most receptive part of the body. It controls muscle movements and interpretation of sensory information like sight, sound, touch, taste, pain, etc.
 
@@ -13,4 +13,3 @@ Magnetic Resonance Imaging (MRI) has become the standard non-invasive technique 
 
 Since glioblastomas are infiltrative tumours, their borders are often fuzzy and hard to distinguish from healthy tissues. As a solution, more than one MRI modality is often employed e.g. T1 (spin-lattice relaxation), T1-contrasted (T1C), T2 (spin-spin relaxation), proton density (PD) contrast imaging, diffusion MRI (dMRI), and fluid attenuation inversion recovery (FLAIR) pulse sequences. T1-weighted images with intravenous contrast highlight the most vascular regions of the tumor (T 1C gives much more accuracy than T1.), called ‗Enhancing tumor‘ (ET), along with the ‗tumor core' (TC) that does not involve peritumoral edema. T2-weighted (T2W) and T2W-Fluid Attenuation Inversion Recovery (FLAIR) images are used to evaluate the tumor and peritumoral edema together defined as the ‗whole tumor‘ (WT). Gliomas and glioblastomas are difficult to distinguish in T1, T1c, T2 and PD. They are better identified in FLAIR modalities.
 
-![Alt Text](https://www.simplilearn.com/ice9/free_resources_article_thumb/RRN_vegas.png)
