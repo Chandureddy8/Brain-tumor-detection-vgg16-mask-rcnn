@@ -4,11 +4,12 @@
 
 ![Alt Text](https://github.com/Chandureddy8/Brain-tumor-detection-vgg16-mask-rcnn/blob/main/images/download.jfif)
 
-![Alt Text](https://github.com/Chandureddy8/Brain-tumor-detection-vgg16-mask-rcnn/blob/main/images/493ss_getty_rf_doctor_examining_mri_scan_of_brain.jpg)
 
 In medical science, an anomalous and uncontrollable cell growth inside the brain is recognised as tumor. Human brain is the most receptive part of the body. It controls muscle movements and interpretation of sensory information like sight, sound, touch, taste, pain, etc.
 
 The human brain consists of Grey Matter (GM), White Matter (WM) and Cerebrospinal Fluid (CSF) and on the basis of factors like quantification of tissues, location of abnormalities, malfunctions & pathologies and diagnostic radiology, a presence of tumor is identified. A tumor in the brain can affect such sensory information and muscle movements or even results in more dangerous situation which includes death. Depending upon the place of commencing, tumor can be categorised into primary tumors and secondary tumors. If the tumor is originated inside the skull, then the tumor is known as primary brain tumor otherwise if the tumor‘s initiation place is somewhere else in the body and moved towards the brain, then such tumors are called secondary tumors.
+
+![Alt Text](https://github.com/Chandureddy8/Brain-tumor-detection-vgg16-mask-rcnn/blob/main/images/493ss_getty_rf_doctor_examining_mri_scan_of_brain.jpg)
 
 Brain tumor can be of the following types-glioblastoma, sarcoma, metastatic bronchogenic carcinoma on the basis of axial plane. While some tumours such as meningioma can be easily segmented, others like gliomas and glioblastomas are much more difficult to localise. World Health Organisation (WHO) categorised gliomas into - HGG/high grade glioma/glioblastoma/IV stage /malignant & LGG/low grade glioma/II and III stage /benign. Although most of the LGG tumors have slower growth rate compared to HGG and are responsive to treatment, there is a subgroup of LGG tumors which if not diagnosed earlier and left untreated could lead to GBM. In both cases a correct treatment planning (including surgery, radiotherapy, and chemotherapy separately or in combination) becomes necessary, considering that an early and proper detection of the tumor grade can lead to a good prognosis. Survival time for a GBM (Glioblastoma Multiform) or HGG patient is very low i.e. in the range of 12 to 15 months.
 
