@@ -1,7 +1,10 @@
 # Brain-tumor-detection-vgg16-mask-rcnn
 
 # Brain tumor:
-                                  ![Alt Text](https://github.com/Chandureddy8/Brain-tumor-detection-vgg16-mask-rcnn/blob/main/images/download.jfif)
+
+![Alt Text](https://github.com/Chandureddy8/Brain-tumor-detection-vgg16-mask-rcnn/blob/main/images/download.jfif)
+
+![Alt Text](https://github.com/Chandureddy8/Brain-tumor-detection-vgg16-mask-rcnn/blob/main/images/493ss_getty_rf_doctor_examining_mri_scan_of_brain.jpg)
 
 In medical science, an anomalous and uncontrollable cell growth inside the brain is recognised as tumor. Human brain is the most receptive part of the body. It controls muscle movements and interpretation of sensory information like sight, sound, touch, taste, pain, etc.
 
